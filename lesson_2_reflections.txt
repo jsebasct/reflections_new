@@ -15,3 +15,36 @@ Staging area allows us to control what should be commited is an intermediate ste
 between the working directory and the repository.
 
 --------------------------------------------------------------------------------------------------------------------------
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+You may also want to commit your changes to the file
+
+In spite of the fact that you have modified several files you can add to the staging area
+just the ones you need to commit, that is, just the logical change.
+
+-------------------------------------------------------------------------------------------------------------------------- 
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If you have some sort of standard message per task o per new funcionality then an entire branch could have the same 
+initials and when your merged into the branch master and make a git log command then all history should be 
+kind of organized.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------- 
+
+How do the diagrams help you visualize the branch structure?
+
+Visual help is always more easy to understand than words
+we can see exacly what we wanted
+
+
+-------------------------------------------------------------------------------------------------------------------------- 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Two branches, that is, two paths, are joined.
+-------------------------------------------------------------------------------------------------------------------------- 
